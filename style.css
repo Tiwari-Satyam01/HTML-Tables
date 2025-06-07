@@ -7,6 +7,9 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
+            background-image: url('pexels-baskincreativeco-1766838.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
         }
     table {
             width: 80%;
